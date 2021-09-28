@@ -1,0 +1,39 @@
+h1{
+    color: yellowgreen;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font size: 35px;
+    background-color: green;
+    text-align: center;
+}
+p{
+    color: rgb(47, 79, 60);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.destacados{
+  color: blueviolet;
+    font-weight: 200;
+}
+h2{
+    color: violet;
+}
+h3{
+    color:violet;
+}
+a{
+   color: green;
+    font size: 40px;
+}
+a:hover{
+    background-color: darkseagreen;
+    color:goldenrod
+    
+}
+ul{
+    color: yellowgreen;
+}
+ol{
+    color: yellowgreen;
+}
+img{
+    margin-left: 5cm;
+}
